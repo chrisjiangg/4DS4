@@ -6,9 +6,7 @@
 ---
 
 ## 📘 **Course Overview**  
-COMPENG 4DS4 focuses on real-time embedded systems using microcontrollers.  
-Topics include interrupt handling, multitasking with RTOS, peripheral interfacing, and low-level firmware development.  
-The course emphasizes hands-on learning through labs and projects involving sensors, actuators, and real-time constraints.
+COMPENG 4DS4 focuses on real-time embedded systems using microcontrollers. Topics include interrupt handling, multitasking with RTOS, peripheral interfacing, and low-level firmware development. The course emphasizes hands-on learning through labs and projects involving sensors, actuators, and real-time constraints.
 
 ---
 
